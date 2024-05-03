@@ -35,7 +35,12 @@ Our analysis aims to better inform inspectors what to look for, optimizing the i
 
 Any advise for common problems or issues.
 ```
-Contact Authors 
+Contact Authors:
+Nada Mashkour: nmashkour@gwmail.gwu.edu
+Emma Hudson: emmahudson@gwmail.gwu.edu
+Manuel Chavez: manueljonathan.chavezcarpio@gwmail.gwu.edu
+Arnav Chaudhari: arnav.chaudhari@gwmail.gwu.edu
+
 ```
 
 ## Authors
