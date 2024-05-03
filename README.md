@@ -1,16 +1,17 @@
-# Project Title : City of New York Restaurant Regulation
+# New York City Department of Health: Risk Segmentation Model Approach for Restaurants
 
 ## Description
 
-The New York City Department of Health and Mental Hygiene is responsible for regulating 24,000 restaurants. At least once per year, the department conducts inspections randomly, with a holistic approach (i.e. food handling, food temperature, personal hygiene, and vermin control).The department’s main goal is to achieve high quality standards in the establishments.
+The New York City Department of Health and Mental Hygiene is responsible for regulating 24,000 restaurants. At least once per year, the Department conducts inspections randomly, with a holistic approach (i.e. food handling, food temperature, personal hygiene, and vermin control).The Department’s main goal is to achieve high quality standards in the establishments.
 
-## Purpouse
-Segmentation, according to the probabilistic risk. Specifically, how to successfully determine an accurate impact measurement of the factors considered in the score weighting.
+## Purpose
+The purpose of the analysis is to enhance DOH analytical capabilities by pinpointing trends in NYC's inspection outcomes, crafting a segmented model approach that informs the Department with an interactive dashboard.
+
+Our analysis aims to better inform inspectors what to look for, optimizing the inspection appointment and creating more targeted inspections. Overall, it will be a more efficient system for DOH inspections, acting as a supplementary tool to create an ecosystem of more sanitary conditions in NYC restaurants.  
 
 
 ![deliverables](https://github.com/mchc7/Practicum---Group-10-/blob/main/deliverables_mapping.png)
 ### Deliverables
-
 Table 1 summarizes the primary differences between these five types:
 
 | Deliverable Type | Designed to be:|File Name
@@ -26,15 +27,13 @@ Table 1 summarizes the primary differences between these five types:
 
 ![Detail](https://github.com/mchc7/Practicum---Group-10-/blob/main/notebook_process.png).
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
+* Download the "Deloitte_GWSB_NYC_Segmentation.ipynb" file, and run on Google Colab, VSCode, Jupyter, or any platform that supports Python.
+* Load the original dataset from the open-source NYC DOH website. In the program, the dataset is named "NYC_rest_inspection.csv."
+* Load the packages necessary, and execute the program.
 ```
 installing given packages
 ```
