@@ -1,7 +1,1 @@
 This folder will hold all deliverables mentioned in the "Readme."
-
-| Deliverable Type | Designed to be:|File Name
-| --- | --- | --- |
-| Raw Data | Given by NYC Dataset |NYC_rest_inspection.csv
-| Agreggated data  |Code's output |Output_NYC_Aggregated.csv
-| Presentation |Implemented (in .pptx) |NYC-DOH-Capstone-Deck.pptx
