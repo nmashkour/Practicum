@@ -34,6 +34,8 @@ Our analysis aims to better inform inspectors what to look for, optimizing the i
 ## Help
 
 Any advise for common problems or issues.
+## Authors
+
 ```
 Contact Authors:
 Nada Mashkour: nmashkour@gwmail.gwu.edu
@@ -42,13 +44,6 @@ Manuel Chavez: manueljonathan.chavezcarpio@gwmail.gwu.edu
 Arnav Chaudhari: arnav.chaudhari@gwmail.gwu.edu
 
 ```
-
-## Authors
-
-Contributors names and contact info
-
-Arnav Chaudhari, Emma Hudson, Manuel Chavez, Nada Mashkour
-
 
 ## License
 
