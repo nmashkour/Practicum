@@ -16,12 +16,9 @@ Table 1 summarizes the primary differences between these five types:
 
 | Deliverable Type | Designed to be:|File Name
 | --- | --- | --- |
-| Raw Data | Given by NYC Dataset |Raw_dataset.csv
-| Data Cleaning and Preparation | Implemented (in code)|Ny_notebook.ipynb
-| Clustering /Segmentation  | Implemented (in code) |Ny_notebook.ipynb
-| Agreggate data  |Code's output |final_dataset.csv
-| Dashboard |Implemented(in .twbx dashboard) |NY_dashboard.twbx
-| Presentation |Implemented(in .pptx) |NY_presentation.pptx
+| Raw Data | Given by NYC Dataset |NYC_rest_inspection.csv
+| Agreggated data  |Code's output |Output_NYC_Aggregated.csv
+| Presentation |Implemented (in .pptx) |NYC-DOH-Capstone-Deck.pptx
 
 ### Process Detail
 
