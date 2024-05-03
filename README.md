@@ -12,7 +12,6 @@ Our analysis aims to better inform inspectors what to look for, optimizing the i
 
 ![deliverables](https://github.com/mchc7/Practicum---Group-10-/blob/main/deliverables_mapping.png)
 ### Deliverables
-Table 1 summarizes the primary differences between these five types:
 
 | Deliverable Type | Designed to be:|File Name
 | --- | --- | --- |
