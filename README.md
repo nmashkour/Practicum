@@ -31,9 +31,6 @@ Table 1 summarizes the primary differences between these five types:
 * Download the "Deloitte_GWSB_NYC_Segmentation.ipynb" file, and run on Google Colab, VSCode, Jupyter, or any platform that supports Python.
 * Load the original dataset from the open-source NYC DOH website. In the program, the dataset is named "NYC_rest_inspection.csv."
 * Load the packages necessary, and execute the program.
-```
-installing given packages
-```
 
 ## Help
 
@@ -46,24 +43,13 @@ Contact Authors
 
 Contributors names and contact info
 
-Arnav Chaudhari|
-Emma Hudson|
-Manuel Chavez|
-Nada Mashkour
-
-## Version History
-
-* 0.2
-    * Various fixes 
-    * See [commit change]() or See [release history]()
+Arnav Chaudhari, Emma Hudson, Manuel Chavez, Nada Mashkour
 
 
 ## License
 
-This project is an open public project .
+This project is an open public project.
 
 ## Acknowledgments
 |https://github.com/SelfExplainML/PiML-Toolbox |
 https://opendata.cityofnewyork.us/|
-
-
